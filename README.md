@@ -281,6 +281,9 @@ For non-interactive / CI usage:
 nix develop .#go --command bash -c "go build ./..."
 ```
 
+https://www.daytona.io/docs/
+
+
 Optional: Install [direnv](https://direnv.net/) + [nix-direnv](https://github.com/nix-community/nix-direnv) for automatic shell activation when you `cd` into the project.
 
 See [`AGENTS.md`](AGENTS.md) for the full shell reference, project-to-shell mapping, and common commands.
